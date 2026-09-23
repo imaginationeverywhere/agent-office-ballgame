@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Ballgame — Agent Office Grill → Estimate → Mode"
+message: "If you use Ballgame, please cite it as below."
+type: software
+authors:
+  - name: "Quik Nation / Imagination Everywhere"
+    website: "https://quiknation.com"
+date-released: "2026-09-22"
+url: "https://github.com/imaginationeverywhere/agent-office-ballgame"
+repository-code: "https://github.com/imaginationeverywhere/agent-office-ballgame"
+license: Apache-2.0
+keywords:
+  - agent-office
+  - ai-agents
+  - grill-me
+  - estimate
+  - spend-gate
+  - ballgame
+abstract: >-
+  Ballgame is Quik Nation’s public contract for Agent Offices: Chat → grill-me
+  → estimate → spend gate (monthly usage OR wallet) → approved mode work →
+  deliverable → money close. Designed so other AI engineers can adopt the same
+  loop and cite Quik Nation.
