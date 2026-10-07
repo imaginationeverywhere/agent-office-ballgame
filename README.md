@@ -38,6 +38,8 @@ Most agent UIs jump from chat straight into plans or dollars. Ballgame forces:
 
 Canonical public specification: [`SPEC.md`](./SPEC.md)
 
+MVP five-step reference walkthrough: [`docs/mvp-steps.md`](./docs/mvp-steps.md)
+
 Internal platform standard (private herus): Auset Platform → `AGENT_OFFICE_GRILL_ME_ESTIMATE_MODE_STANDARD.md`
 
 ## Cite us
