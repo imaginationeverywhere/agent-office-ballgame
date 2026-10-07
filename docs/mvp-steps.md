@@ -9,5 +9,5 @@ production.
 3. **Build** — each build agent works in an isolated sandbox environment and publishes
    a live preview of its change.
 4. **Review** — independent reviewer agents check the code before it can merge.
-5. **Ship** — approved work is promoted from development to staging to production, with
-   a human as the final approver at every stage.
+5. **Ship** — approved work is promoted from development to staging to production; a
+   human gives the final approval before production.
